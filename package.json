@@ -1,13 +1,13 @@
 {
   "name": "ruby-test-symbols",
   "displayName": "Ruby Test Symbols",
-  "description": "",
+  "description": "Provide document symbols for ruby minitest and rspec test groups and examples.",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.84.0"
   },
   "categories": [
-    "Other"
+    "Programming Languages"
   ],
   "activationEvents": ["onLanguage:ruby"],
   "main": "./extension.js",
